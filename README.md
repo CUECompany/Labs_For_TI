@@ -84,7 +84,7 @@ MVVM Pattern - архитектурный паттерн
 Data Binding - привязка данных
 
 __Требования__
-ОС: Windows 7/8/10/11
+ОС: Windows 10/11
 
 .NET Framework: 4.7.2 или выше
 
